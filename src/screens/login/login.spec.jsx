@@ -4,11 +4,9 @@ import { DracarysContextProvider } from '../../context/dracarys-context';
 import App from "../../App";
 
 const MockedApp = () => (
-  // <MemoryRouter>
     <DracarysContextProvider>
       <App />
     </DracarysContextProvider>
-  // {/* </MemoryRouter> */}
 )
 describe('Login', () => {
 
