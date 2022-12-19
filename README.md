@@ -27,7 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - **[Styled components](https://styled-components.com/)**
 - **[Axios](https://github.com/axios/axios)**
-- **[Reac-Router-Dom](https://github.com/remix-run/react-router/blob/main/docs/start/tutorial.md)**
+- **[React-Router-Dom](https://github.com/remix-run/react-router/blob/main/docs/start/tutorial.md)**
 
 ## 🏃 Como executar o projeto
 
