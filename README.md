@@ -35,6 +35,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Antes de começar, você vai precisar ter instalado em sua máquina o [Yarn](https://yarnpkg.com/).
 
+### Usuário
+
+Para acessar a aplicação, deverá ser utilizado o seguinte usuário:
+
+Usuário: `Drogon`
+Senha: `dracarys`
+
 ### 🧭 Rodando a aplicação
 
 ```bash
