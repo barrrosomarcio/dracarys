@@ -8,7 +8,7 @@ export const EditDragon = () => {
   return (
     <PageContainer>
       <Header
-        title='Criar novo Dragão'
+        title='Editar Dragão'
         shouldRenderTitle
         shloudRenderListingButton
       />

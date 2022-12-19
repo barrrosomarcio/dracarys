@@ -10,26 +10,45 @@ export const PageContainer = styled.div`
 `
 
 export const Container = styled.div`
-  background-color: #fceec7;
+  height: 300px;
+  width: 300px;
+  border-color: white;
+  border-style: solid;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items center;
   padding:20px;
+  border-radius: 10px;
 `
 
 export const Title = styled.label`
   color: #950020;
+  font-weight: 800;
+  font-size:30px;
 `
 
-export const Input = styled.input``
+export const Input = styled.input`
+  height: 30px;
+`
 
-export const InputLabel = styled.label``
+export const InputLabel = styled.label`
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 10px;
+  `
 
 export const Button = styled.button`
   color: #452b30;
+  background-color: #838c94;
+  width: 100px;
+  height: 30px;
+  font-color: #950020;
+  font-size: 14px;
 `
 
 export const ErrorMessage = styled.label`
-  color: red;
+  margin-top: 10px;
+  color: darkred;
 `

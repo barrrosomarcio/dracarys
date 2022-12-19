@@ -10,7 +10,9 @@ export const HeaderContainer = styled.div`
   justify-content: space-around;
 `
 
-export const Title = styled.h2``
+export const Title = styled.h2`
+  color: darkred;
+`
 
 export const NavContainer = styled.div`
   justify-content: space-between;
@@ -19,4 +21,11 @@ export const NavContainer = styled.div`
   width: 100px;
 `
 
-export const NavButton = styled.button``
+export const NavButton = styled.button`
+color: #452b30;
+  background-color: #838c94;
+  width: 100px;
+  height: 30px;
+  font-color: #950020;
+  font-size: 14px;
+`
