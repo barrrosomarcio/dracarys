@@ -63,13 +63,13 @@ Por motivo de tempo, foi decidido que alguns pontos de melhoria não seriam exec
 - Melhorar responsividade e até mesmo alterar a visualização de componentes através de media querys.
 
 ## 🖥️ Telas do Projeto
-<img width="799" alt="Screenshot 2022-12-19 at 08 57 52" src="https://user-images.githubusercontent.com/63112524/208428285-079cc07d-71c5-4426-a86f-fa34ca89fca9.png"><img width="1666" alt="<img width="1666" alt="Screenshot 2022-12-19 at 08 59 18" src="https://user-images.githubusercontent.com/63112524/208428398-847cdd32-f37b-4957-8ecf-ee660018abf3.png">
-Screenshot 2022-12-19 at 08 58 09" src="<img width="1666" alt="Screenshot 2022-12-19 at 08 59 29" src="https://user-images.githubusercontent.com/63112524/208428440-4d100eb4-0b91-41cc-96a5-4a6740896fa9.png">
-https://user-images.githubusercontent.com/63112524/208428345-2b90b4ed-d0db-47a3-bb3b-2141a7db5c9b.png"><img width="1666" alt="Screenshot 2022-12-19 at 08 58 22" src="https://user-images.githubusercontent.com/63112524/208428368-c741ee4a-b095-4aa1-b2c3-406397f8d7b7.png">
 
+<img width="799" alt="Screenshot 2022-12-19 at 08 57 52" src="https://user-images.githubusercontent.com/63112524/208428635-f6ed596d-b3c4-4791-b45b-92579d641e5d.png">
 
+<img width="1666" alt="Screenshot 2022-12-19 at 08 58 09" src="https://user-images.githubusercontent.com/63112524/208428671-842bb579-4046-4a99-857f-32ed4efdd106.png">
 
+<img width="1666" alt="Screenshot 2022-12-19 at 08 58 22" src="https://user-images.githubusercontent.com/63112524/208428700-cd98cc5b-5f94-4659-8538-e42fcbc40a1d.png">
 
+<img width="1666" alt="Screenshot 2022-12-19 at 08 59 18" src="https://user-images.githubusercontent.com/63112524/208428775-602a329b-23f9-44d4-be92-af999a216bf4.png">
 
-
-
+<img width="1666" alt="Screenshot 2022-12-19 at 08 59 29" src="https://user-images.githubusercontent.com/63112524/208428819-3ae702f9-c63d-4ae5-9ead-56c1cd8947dd.png">
