@@ -48,9 +48,6 @@ Senha: `dracarys`
 #Clone este repositório
 $ git clone git@github.com:barrrosomarcio/dracarys.git
 
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd seller-acquisition-ai-platform-remote-component
-
 # Instale as dependências
 $ yarn
 
