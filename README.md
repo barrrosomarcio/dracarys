@@ -53,7 +53,7 @@ $ yarn start
 # A aplicação será aberta na porta:3000 
 ```
 
-### 🧭 Pontos de melhoria
+### 🛠️ Pontos de melhoria
 
 Por motivo de tempo, foi decidido que alguns pontos de melhoria não seriam executados. Foram eles: 
 
@@ -61,5 +61,15 @@ Por motivo de tempo, foi decidido que alguns pontos de melhoria não seriam exec
 - Melhorar estilos.
 - Criar um índice de componentes estilizados com styled-components que pudessem ser reutilizados em todo o projeto.
 - Melhorar responsividade e até mesmo alterar a visualização de componentes através de media querys.
+
+## 🖥️ Telas do Projeto
+<img width="799" alt="Screenshot 2022-12-19 at 08 57 52" src="https://user-images.githubusercontent.com/63112524/208428285-079cc07d-71c5-4426-a86f-fa34ca89fca9.png"><img width="1666" alt="<img width="1666" alt="Screenshot 2022-12-19 at 08 59 18" src="https://user-images.githubusercontent.com/63112524/208428398-847cdd32-f37b-4957-8ecf-ee660018abf3.png">
+Screenshot 2022-12-19 at 08 58 09" src="<img width="1666" alt="Screenshot 2022-12-19 at 08 59 29" src="https://user-images.githubusercontent.com/63112524/208428440-4d100eb4-0b91-41cc-96a5-4a6740896fa9.png">
+https://user-images.githubusercontent.com/63112524/208428345-2b90b4ed-d0db-47a3-bb3b-2141a7db5c9b.png"><img width="1666" alt="Screenshot 2022-12-19 at 08 58 22" src="https://user-images.githubusercontent.com/63112524/208428368-c741ee4a-b095-4aa1-b2c3-406397f8d7b7.png">
+
+
+
+
+
 
 
